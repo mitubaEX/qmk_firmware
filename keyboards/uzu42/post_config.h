@@ -6,3 +6,5 @@
 #ifndef OLED_FONT_H
 #    define OLED_FONT_H "keyboards/uzu42/glcdfont.c"
 #endif
+
+#define DEBOUNCE 5
