@@ -20,6 +20,3 @@
 //#define NO_ACTION_ONESHOT
 
 #define DEBOUNCE 5
-
-// Mod Tap Key と通常キーを連続して拘束に押したときに両方のキーを Tap として扱う
-#define HOLD_ON_OTHER_KEY_PRESS
